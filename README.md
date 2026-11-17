@@ -10,7 +10,7 @@ Built in Python (Google Colab) with pandas, NumPy, Matplotlib, Seaborn and sciki
 
 Pricing a used car is hard: age, mileage, engine and brand all pull the price in different directions. This project studies those relationships and builds a baseline model that estimates a fair price for a car.
 
-### Objectives
+### Project Objectives
 
 - Clean and validate the raw car sales data.
 - Explore how mileage, age, engine size and fuel type affect price.
