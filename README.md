@@ -131,3 +131,8 @@ The notebook uses `google.colab.files.upload()`. Remove it and read the CSV dire
 ## 🛠️ Tech Stack
 
 🐍 Python · 🐼 pandas · 🔢 NumPy · 📊 Matplotlib · 🎨 Seaborn · 🤖 scikit-learn · ☁️ Google Colab
+
+## Dashboard 
+
+<img width="1358" height="757" alt="Second_Hand_Car_Price_Prediction_Dashboard" src="https://github.com/user-attachments/assets/aac0e5f5-7321-44c8-9f2f-c264246923fe" />
+
